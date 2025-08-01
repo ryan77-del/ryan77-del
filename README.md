@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Ryan Ferraz
 
-<!--
-**ryan77-del/ryan77-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para a área de dados  
+📚 Estudando SQL, Power BI e Python para Análise de Dados  
+📊 Focado em obter certificações como o SQL Associate da DataCamp  
+🚀 Buscando uma oportunidade como estagiário em dados
 
-Here are some ideas to get you started:
+### 🧰 Tecnologias que estou aprendendo:
+- SQL (PostgreSQL)
+- Python para análise de dados (Pandas, NumPy, Matplotlib)
+- Power BI
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projetos em destaque:
+📌 Veja abaixo alguns projetos que estou desenvolvendo!
+
+📫 Me encontre:
+- [LinkedIn](https://www.linkedin.com/in/ryan-ferraz-971a05305/)
