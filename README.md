@@ -13,6 +13,7 @@
 
 ### 💼 Projetos em destaque:
 📌 Veja abaixo alguns projetos que estou desenvolvendo!
+- Projeto em python - (https://github.com/ryan77-del/netflix-1990s-analise)
 
 📫 Me encontre:
 - [LinkedIn](https://www.linkedin.com/in/ryan-ferraz-971a05305/)
