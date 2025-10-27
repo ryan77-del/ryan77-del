@@ -16,5 +16,7 @@
 - Análise de Filmes da Netflix - Década de 1990 - https://github.com/ryan77-del/netflix-1990s-analise
 -  Limpeza e imputação de dados - https://github.com/ryan77-del/super_store_sql_project
 -  Análise de divida internacional - https://github.com/ryan77-del/divida-internacional-sql
+
+
 📫 Me encontre:
 - [LinkedIn](https://www.linkedin.com/in/ryan-ferraz-971a05305/)
