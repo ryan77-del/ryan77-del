@@ -13,10 +13,8 @@
 
 ### 💼 Projetos em destaque:
 📌 Veja abaixo alguns projetos que estou desenvolvendo!
-- Projeto em python - (https://github.com/ryan77-del/netflix-1990s-analise)
-- Projetos feitos em SQL
-    1.https://github.com/ryan77-del/super_store_sql_project
-    2.https://github.com/ryan77-del/divida-internacional-sql
-
+- Análise de Filmes da Netflix - Década de 1990 - https://github.com/ryan77-del/netflix-1990s-analise
+-  Limpeza e imputação de dados - https://github.com/ryan77-del/super_store_sql_project
+-  Análise de divida internacional - https://github.com/ryan77-del/divida-internacional-sql
 📫 Me encontre:
 - [LinkedIn](https://www.linkedin.com/in/ryan-ferraz-971a05305/)
