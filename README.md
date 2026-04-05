@@ -1,9 +1,8 @@
 # 👋 Olá! Eu sou o Ryan Ferraz  
 
-🎯 **Em transição de carreira para a área de Dados**  
-📚 Estudando **SQL, Power BI e Python para Análise de Dados**  
-📊 Focado em conquistar a **certificação SQL Associate (DataCamp)**  
-🚀 Buscando uma oportunidade como **estagiário em Análise de Dados**
+🎯 Focado em me tornar Analista de Dados | SQL • Python • Power BI
+📊 Projetos práticos com análise de dados reais
+🚀 Em busca da primeira oportunidade na área de dados
 
 ---
 
