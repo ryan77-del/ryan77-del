@@ -7,7 +7,7 @@
 ---
 
 ### 🧰 Tecnologias que estou aprendendo:
-- **SQL (PostgreSQL)**
+- **SQL (MySQL)**
 - **Python** para análise de dados (Pandas, NumPy, Matplotlib)
 - **Power BI**
 - **Git & GitHub**
