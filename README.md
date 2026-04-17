@@ -16,6 +16,7 @@
 
 ### 💼 Projetos em destaque:
 - 🧾 [**Modelagem de um sistema E-commerce**](https://github.com/ryan77-del/ecommerce-modelagem-bd)
+- 🔧 [**Modelagem de um sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica**]
 - 🧹 [**Limpeza e Imputação de Dados (Super Store)**](https://github.com/ryan77-del/super_store_sql_project)  
 - 🌍 [**Análise de Dívida Internacional**](https://github.com/ryan77-del/divida-internacional-sql)
 
