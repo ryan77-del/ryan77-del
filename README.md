@@ -15,7 +15,7 @@
 ---
 
 ### 💼 Projetos em destaque:
-- 🎬 [**Análise de Filmes da Netflix — Década de 1990**](https://github.com/ryan77-del/netflix-1990s-analise)  
+- 🧾 [**Modelagem de um sistema E-commerce**](https://github.com/ryan77-del/ecommerce-modelagem-bd)
 - 🧹 [**Limpeza e Imputação de Dados (Super Store)**](https://github.com/ryan77-del/super_store_sql_project)  
 - 🌍 [**Análise de Dívida Internacional**](https://github.com/ryan77-del/divida-internacional-sql)
 
