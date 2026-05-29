@@ -9,8 +9,7 @@
 ### 🧰 Tecnologias que estou aprendendo:
 - **SQL (MySQL/PostgreSQL)**
 - **Python** para análise de dados (Pandas, NumPy, Matplotlib)
-- **Power BI**
-- **Git & GitHub**
+- **GitHub**
 
 
 ### 📫 Onde me encontrar:
