@@ -16,4 +16,4 @@
 🔗 [**LinkedIn**](https://linkedin.com/in/ryan-ferraz-971a05305)
 
 ### Portifólio de projetos atuais:
-[**CLIQUE AQUI**](https://github.com/ryan77-del/ryan-portifolio)
+🔗 [**Projetos**](https://github.com/ryan77-del/ryan-portifolio)
