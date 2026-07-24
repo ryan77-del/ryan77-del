@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Ryan Ferraz  
 
-🎯 Focado em me tornar Analista de Dados | SQL • Python • Power BI
-📊 Projetos práticos com análise de dados reais
-🚀 Em busca da primeira oportunidade na área de dados
+🎯 Buscando conhecimento na area da tecnologia | SQL • Python • Power BI • Linux
+📊 Projetos práticos 
+🚀 Em busca da primeira oportunidade na tecnologia
 
 ---
 
@@ -10,6 +10,7 @@
 - **SQL (MySQL/PostgreSQL)**
 - **Python** para análise de dados (Pandas, NumPy, Matplotlib)
 - **GitHub**
+- **Linux**(Bash,Shell Script)
 
 
 ### 📫 Onde me encontrar:
