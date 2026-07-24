@@ -4,7 +4,7 @@
 
 📊 Projetos práticos
 
-🚀 Em busca da primeira oportunidade na área de tecnologia
+🚀 Em busca da primeira oportunidade na área da tecnologia
 
 ---
 
