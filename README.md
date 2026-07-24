@@ -1,8 +1,10 @@
 # 👋 Olá! Eu sou o Ryan Ferraz  
 
 🎯 Buscando conhecimento na area da tecnologia | SQL • Python • Power BI • Linux
-📊 Projetos práticos 
-🚀 Em busca da primeira oportunidade na tecnologia
+---
+📊 Projetos práticos
+---
+🚀 Em busca da primeira oportunidade na área de tecnologia
 
 ---
 
